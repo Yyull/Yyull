@@ -35,7 +35,14 @@
 #
 ### 🌟 Algorithm 
   </br>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yrh0711)](https://solved.ac/yrh0711/) 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oneglass)](https://solved.ac/oneglass/) </br>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yrh0711)](https://solved.ac/yrh0711/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=oneglass)](https://solved.ac/oneglass/) </br>
+
+
+
+
+
+
+
   
