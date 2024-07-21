@@ -1,5 +1,5 @@
 
-## 🌟 I'm interested in Deep Learning and Computer Vision.
+## 🌟 I'm interested in Computer Vision and Natural Language Processing.
 
 
 ### 🌟 Github stats </br>
